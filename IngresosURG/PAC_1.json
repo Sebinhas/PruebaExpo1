@@ -1,0 +1,14 @@
+[
+	{
+		"Nombre": "Hussenin Jose ",
+		"Apellido": "Barrera Herrera",
+		"Cedula": "2523123",
+		"Edad": "49",
+		"Sexo": "Masculino",
+		"Talla":"1.73",
+		"Peso":"70",
+		"Triaje":{"Turno":"Noche","valoracion":"1"},
+		"Presion": {"Diastolica":"134","Sistolica":"239"},
+		"Frec Cardiaca": "62"
+	}
+]

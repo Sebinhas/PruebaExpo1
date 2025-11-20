@@ -1,0 +1,7 @@
+id,Nombre,Apellido,Cedula,Edad,Sexo,Talla,Peso,Turno,Valoracion,Presion_Diastolica,Presion_Sistolica,Frec_Cardiaca,Estado
+M,,,M,,Femenino,,,,,,,,Activo
+F,,,F,,Femenino,,,,,,,,Activo
+F,,,F,,Femenino,,,,,,,,Activo
+2523123,Hussenin Jose,Barrera Herrera,2523123,49,Masculino,1.73,70,Noche,1,134,239,62,Activo
+10362233123,Nicolas Manuel,Maduro Estrada,10362233123,65,Masculino,1.69,60,Diurno,3,104,200,69,Activo
+1036254423,Luz Viana,Sanchez Gomez,1036254423,79,Femenino,1.80,75,Noche,2,104,190,70,Activo

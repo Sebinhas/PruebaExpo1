@@ -1,0 +1,14 @@
+[
+    {
+        "Nombre": "Luz Viana ",
+        "Apellido": "Sanchez Gomez",
+        "Cedula": "1036254423",
+        "Edad": "79",
+        "Sexo": "Femenino",
+        "Talla":"1.80",
+        "Peso":"75",
+        "Triaje":{"Turno":"Noche","valoracion":"2"},
+        "Presion": {"Diastolica":"104","Sistolica":"190"},
+        "Frec Cardiaca": "70"
+    }
+]

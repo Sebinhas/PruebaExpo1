@@ -1,0 +1,14 @@
+[
+    {
+        "Nombre": "Nicolas Manuel ",
+        "Apellido": "Maduro Estrada",
+        "Cedula": "10362233123",
+        "Edad": "65",
+        "Sexo": "Masculino",
+        "Talla":"1.69",
+        "Peso":"60",
+        "Triaje":{"Turno":"Diurno","valoracion":"3"},
+        "Presion": {"Diastolica":"104","Sistolica":"200"},
+        "Frec Cardiaca": "69"
+    }
+]
